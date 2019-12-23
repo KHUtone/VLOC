@@ -21,7 +21,7 @@
 
 ### Architecture
 
-![architecture](C:\Users\starc\Desktop\2학년 2학기\github\VLOG\src\img\architecture.png)
+![architecture](.\src\img\architecture.png)
 
 1. 영상업로드
 2. 업로드했다고 알림
