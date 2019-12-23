@@ -1,5 +1,5 @@
-# VLOG
-- Video Log
+# VLOC
+- VLOG + Compiler
 - 2019/11/8 경희대학교 해커톤
 - 우수상 수여
 
