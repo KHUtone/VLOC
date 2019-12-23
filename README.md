@@ -21,6 +21,17 @@
 
 ### Architecture
 
+![architecture](C:\Users\starc\Desktop\2학년 2학기\github\VLOG\src\img\architecture.png)
 
+1. 영상업로드
+2. 업로드했다고 알림
+3. 편집할 영상 다운
+4. 편집한 영상 업로드
+5. 업로드 했다고 알림
+6. 최종 영상 다운
 
 ### Result
+
+- 사용자가 지정한 가중치 지수 미만인 부분을 잘라 vlog를 만들어준다. 
+- 자막 자동 생성.
+- 
