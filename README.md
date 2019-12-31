@@ -6,7 +6,7 @@
 ### Member
 - 정의동 : Android app 개발
 - 김원규 : video model 학습 
-- 윤준석 : 자동 자막 생성
+- 윤준석 : Auto Subtitles Using STT(Speech-To-Text)
 - 유명현 : aws architecture setting
 
 ### Motivation
